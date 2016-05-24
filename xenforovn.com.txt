@@ -1,0 +1,53 @@
+[]------------------------------------------------------------------------------[]
+||  ##########################################################################  ||
+||  #                                                                        #  ||
+||  #             ____  ____  ________  ____   ____  ____  _____             #  ||
+||  #            |_  _||_  _||_   __  ||_  _| |_  _||_   \|_   _|            #  ||
+||  #              \ \  / /    | |_ \_|  \ \   / /    |   \ | |              #  ||
+||  #               > `' <     |  _|      \ \ / /     | |\ \| |              #  ||
+||  #             _/ /'`\ \_  _| |_        \ ' /     _| |_\   |_             #  ||
+||  #            |____||____||_____|        \_/     |_____|\____|            #  ||
+||  #                                                                        #  ||
+||  #------------------------------------------------------------------------#  ||
+||  #                                 XenForo                                #  ||
+||  #------------------------------------------------------------------------#  ||
+||  ##########################################################################  ||
+||  #                            www.xenforovn.com                           #  ||
+||  ##########################################################################  ||
+||                                                                              ||
+||  #{Script Info}-----------------------------------------------------------#  ||
+||  #[*] Name Script  : XenForo                                              #  ||
+||  #[*] Version      : 1.0.2                                                #  ||
+||  #[*] Type         : Bulletin Board System                                #  ||
+||  #[*] Supplied by  : XFVN-TEAM                                            #  ||
+||  #[*] Nulled by    : XFVN-TEAM                                            #  ||
+||  #[*] Tested By    : XFVN-TEAM                                            #  ||
+||  #[*] Packaged By  : XFVN-TEAM                                            #  ||
+||  #[*] Language     : PHP/MySQL                                            #  ||
+||  #[*] Protection   : None                                                 #  ||
+||  #[*] Website      : www.xenforo.com                                      #  ||
+||  #[*] Release Date : 26/05/2011                                           #  ||
+||  #[*] Demo Script  : http://www.xenforovn.com                             #  ||
+||  #[*] Addons       : n/a                                                  #  ||
+||  #[*] Group Noted  : Props fliez to contributors of this project:         #  ||
+||  #                    supplier,nuller and QAT.                            #  ||
+||  #[*] Documents    : Check 'INSTALL-UPGRADE.txt'                          #  ||
+||  #                    for setup & installation info                       #  ||
+||                                                                              ||
+||  #{Description}-----------------------------------------------------------#  ||
+||  # XenForo is a commercial Internet forum software                        #  ||
+||  # written in the PHP programming language using the Zend Framework       #  ||
+||  # (A Rapid Application Development Framework). The software is developed #  ||
+||  # by a team led by former vBulletin lead developers                      #  ||
+||  # Kier Darby and Mike Sullivan.                                          #  ||
+||                                                                              ||
+||                                                                              ||
+||  #{Contact Us}------------------------------------------------------------#  ||
+||  #[*] Website      : www.xenforovn.com                                    #  ||
+||      **********************************************************           #  ||
+||      |  XenForoVN forum is a place to consult                 |           #  ||
+||      |  about forum XF system an open source forum software   |           #  ||
+||      |  and the problems that related to internet technology  |           #  ||
+||      |  Share free MODS, STYLES, xF NULLED                    |           #  ||
+||      **********************************************************           #  ||
+[]------------------------------------------------------------------------------[]
