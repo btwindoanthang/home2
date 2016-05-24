@@ -9,8 +9,7 @@ if (!empty($_POST)) {
 
 require_once(dirname(dirname(__FILE__)) . '/libs/database.php');
 
-$dbClass = new Database();
-$db = $dbClass->connect();
+
 
 
 //var_dump($location);
@@ -78,15 +77,17 @@ if (!isset($page)) {
     $page = 0;
 }
 $totalinpage = 5;
-$total = mysql_num_rows(mysql_query("$sql"));
+$to = $mysqli->query($sql);
+$total=$to->num_rows;
 $totalpage = $total / $totalinpage;
 $start = $page * $totalinpage;
 $sql.=" order by id desc limit {$start},{$totalinpage}";
 //echo $sql; exit;
-$query = mysql_query($sql);
-while ($fetch = mysql_fetch_array($query)) {
-    $product[$i] = $fetch;
-    $i++;
+$result = $mysqli->query($sql) or die($mysqli->error.__LINE__);
+if($result->num_rows > 0) {
+	while($row = $result->fetch_array()) {
+		$product[] = $row;	
+	}
 }
 
 
