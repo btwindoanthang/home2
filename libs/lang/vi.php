@@ -1,0 +1,38 @@
+<?php
+define('TITLE','Everyone can find you a house,<br/>We wil show<br/> you a Home!');
+define('HOME', 'Trang Chủ');
+define('CONTACT', 'Liên Hệ'); 
+define('FORUM', 'Diễn Đàn');
+define('HOTLINE', 'Điện Thoại');
+define('HOT_PROPRETY', 'Sản Phẩm Hot');
+define('RENT', 'Cho Thuê');
+define('SALE', 'Bán');
+define('LOCATION', 'Vị Trí');
+define('CATEGORY', 'Danh Mục');
+define('TYPE', 'Loại');
+define('FIND_HOME', 'Tìm Kiếm Nhà');
+define('FIND', 'Tìm');
+define('ROOMS', 'Phòng');
+define('CODE', 'Mã');
+define('BED_ROOM', 'Phòng Ngủ');
+define('BATH_ROOM', 'Phòng Khách');
+define('PRICE','Giá');
+define('COMPARE_VIEW', 'So Sánh Sản Phẩm');
+define('COMPARE', 'So Sánh');
+define('COMPARE_TITLE', 'Chọn sản phẩm muốn so sánh');
+define('NEW_PROPERTY', 'Sản Phẩm Mới');
+define('DESCRIPTION', 'Mô tả');
+define('FEATURE', 'Tương lai');
+define('USD', 'USD');
+define('VND','VND');
+define('BILLION', 'Tỷ');
+define('SQUARE', 'Diện Tích');
+define('PRODUCT', 'Sản Phẩm');
+define('ABOVE', 'Hơn');
+define('EMAIL', 'Email');
+define('SUBJECT', 'Tiêu đề');
+define('MESSAGE', 'Nội dung');
+define('THANKS', 'Cảm ơn bạn đã liên hệ với chúng tôi!');
+define('NAME', 'Tên');
+define('INFORMATION', 'Thông Tin Của Bạn');
+?>
